@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CLOUD>
+
+	<cloud CLOUD_IP_ADDRESS="127.0.0.1" CLOUD_PORT="60121">
+	</cloud>
+	
+	
+	<host NAME="host1" IP_ADDRESS="127.0.0.10">
+	</host>
+	<host NAME="host2" IP_ADDRESS="127.0.0.20">
+	</host>
+	<host NAME="host3" IP_ADDRESS="127.0.0.30">
+	</host>
+	
+	<router NAME="router1" IP_ADDRESS="127.0.0.42" ID="1">
+	</router>
+	<router NAME="router2" IP_ADDRESS="127.0.0.46" ID="2">
+	</router>
+	<router NAME="router3" IP_ADDRESS="127.0.0.44" ID="3">
+	</router>
+	<router NAME="router4" IP_ADDRESS="127.0.0.43" ID="4">
+	</router>
+	<router NAME="router5" IP_ADDRESS="127.0.0.45" ID="5">
+	</router>
+	<router NAME="router6" IP_ADDRESS="127.0.0.51" ID="6">
+	</router>
+	<router NAME="router7" IP_ADDRESS="127.0.0.52" ID="7">
+	</router>
+	<router NAME="router8" IP_ADDRESS="127.0.0.53" ID="8">
+	</router>
+	
+	<connect NODE1="router1" ID1="1" PORT1="122" NODE2="host1" ID2="11" PORT2="111">
+	</connect>
+	<connect NODE1="router1" ID1="1" PORT1="123" NODE2="router2" ID2="2" PORT2="124">
+	</connect>
+	<connect NODE1="router2" ID1="2" PORT1="125" NODE2="router3" ID2="3" PORT2="126">
+	</connect>
+	<connect NODE1="router2" ID1="2" PORT1="127" NODE2="router6" ID2="6" PORT2="301">
+	</connect>
+	<connect NODE1="router2" ID1="2" PORT1="128" NODE2="router5" ID2="5" PORT2="302">
+	</connect>
+	<connect NODE1="router3" ID1="3" PORT1="200" NODE2="router4" ID2="4" PORT2="303">
+	</connect>
+	<connect NODE1="host2"   ID1="12" PORT1="201" NODE2="router4" ID2="4" PORT2="322">
+	</connect>
+	<connect NODE1="router4" ID1="4" PORT1="202" NODE2="router5" ID2="5" PORT2="304">
+	</connect>
+	<connect NODE1="router5" ID1="5" PORT1="213" NODE2="router6" ID2="6" PORT2="313">
+	</connect>
+	<connect NODE1="router6" ID1="6" PORT1="214" NODE2="router7" ID2="7" PORT2="314">
+	</connect>
+	<connect NODE1="router6" ID1="6" PORT1="215" NODE2="router8" ID2="8" PORT2="315">
+	</connect>
+	<connect NODE1="router7" ID1="7" PORT1="225" NODE2="router8" ID2="8" PORT2="320">
+	</connect>
+	<connect NODE1="router8" ID1="8" PORT1="227" NODE2="host3" ID2="13" PORT2="321">
+	</connect>
+</CLOUD>

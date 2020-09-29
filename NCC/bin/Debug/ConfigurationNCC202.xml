@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NCC>
+	<networkcallcontroller IP_ADDRESS_NCC="127.0.10.20" IP_ADDRESS_CC="127.0.10.40" DOMAIN="202">
+	<CPCC IP_ADDRESS="127.0.0.30"></CPCC>
+	<OTHER_NCC IP_ADDRESS_OTHER_NCC="127.0.10.10" DOMAIN="101"></OTHER_NCC>
+	</networkcallcontroller>
+</NCC>

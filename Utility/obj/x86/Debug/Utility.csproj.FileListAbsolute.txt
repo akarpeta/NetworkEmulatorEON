@@ -1,0 +1,13 @@
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\bin\x86\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\bin\x86\Debug\Utility.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\bin\x86\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\App.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Utility\obj\x86\Debug\Utility.pdb

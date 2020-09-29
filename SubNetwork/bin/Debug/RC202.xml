@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RC>
+	 <dRC IP_ADDRESS="127.0.10.32" IP_ADDRESS_CC="127.0.10.40" EDGE="6"></dRC>
+	 <other_RC IP_ADDRESS_OTHER_RC="127.0.10.31"/>
+	 <router NAME="router6" ID="6" IP_ADDRESS="127.0.51.51" IP_ADDRESS_CC="127.0.10.40"></router>
+	 <router NAME="router7" ID="7" IP_ADDRESS="127.0.52.52"></router>
+	 <router NAME="router8" ID="8" IP_ADDRESS="127.0.53.53"></router>
+	 <host NAME="host3" PORTOUT="321"  IP_ADDRESS="127.0.0.30" ROUTER="8"></host>
+	<connect NODE1="8" PORTIN="320" NODE2="7" PORTOUT="255" PATH_ID="21" DROGA="170">
+	</connect>
+	<connect NODE1="8" PORTIN="315" NODE2="6" PORTOUT="215" PATH_ID="22" DROGA="120">
+	</connect>
+	<connect NODE1="6" PORTIN="214" NODE2="7" PORTOUT="314"  PATH_ID="23" DROGA="90">
+	</connect>
+	<connect_r NODE1="33" PORTIN="321" NODE2="8" PORTOUT="227" PATH_ID="15" DROGA="20">
+	</connect_r>
+</RC>

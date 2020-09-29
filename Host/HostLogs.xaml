@@ -1,0 +1,36 @@
+﻿<Window x:Class="Host.HostLogs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Host"
+        mc:Ignorable="d"
+        Title="HostLogs" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <RichTextBox Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="80" x:Name="logBox" IsReadOnly="True" Background="White"/>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Wiadomość:" FontSize="15"/>
+        <TextBox  Grid.Row="0" Grid.Column="1" Background="White" Foreground="Black" x:Name="messageText"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" Text="Gdzie wysłać:" FontSize="15"/>
+        <ComboBox Grid.Row="0" Grid.Column="3"  x:Name="whereCombo" IsSynchronizedWithCurrentItem="False" SelectionChanged="whereCombo_SelectionChanged"/>
+        <TextBlock Grid.Row="0" Grid.Column="4" Text="Ile Gb/s:" FontSize="15"/>
+        <TextBox  Grid.Row="0" Grid.Column="5" Background="White" Foreground="Black" x:Name="bitrateText"/>
+        <Button Grid.Row="0" Grid.Column="6" x:Name="sendButton" Background="Blue" Content="Połącz" Foreground="White" Click="sendButton_Click"/>
+        <Button Grid.Row="0" Grid.Column="8" x:Name="stopButton" Background="Red" Content="Rozłącz" Foreground="White" Click="stopButton_Click"/>
+        <Button Grid.Row="0" Grid.Column="7" x:Name="startButton" Background="Green" Content="Start" Foreground="White" Click="startButton_Click"/>
+    </Grid>
+</Window>

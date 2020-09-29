@@ -1,0 +1,138 @@
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\App.g.cs
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Node.exe
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Node.pdb
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Utility.exe
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.exe
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.exe
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.exe
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.exe
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Node.exe
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.exe
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Node.exe
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.exe
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Node\obj\Debug\Node.pdb
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Node.exe.config
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Node.exe
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Node.pdb
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\NetworkNodeWindow.g.cs
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node_MarkupCompile.cache
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node_MarkupCompile.lref
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\NetworkNodeWindow.baml
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.g.resources
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.Properties.Resources.resources
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.csproj.CopyComplete
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.exe
+C:\Users\Aneta\Desktop\ostateczne\EON20\Node\obj\Debug\Node.pdb

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RC>
+	 <dRC IP_ADDRESS="127.0.10.31" IP_ADDRESS_CC="127.0.10.30" EDGE="5"></dRC>
+	 <other_RC IP_ADDRESS_OTHER_RC="127.0.10.32"></other_RC>
+	 <router NAME="router1" ID="1" IP_ADDRESS="127.0.42.42"></router>
+	 <router NAME="router2" ID="2" IP_ADDRESS="127.0.46.46"></router>
+	 <router NAME="router3" ID="3" IP_ADDRESS="127.0.44.44"></router>
+	 <router NAME="router4" ID="4" IP_ADDRESS="127.0.43.43"></router>
+	 <router NAME="router5" ID="5" IP_ADDRESS="127.0.45.45"></router>
+	 
+	<host NAME="host1" PORTOUT="111" IP_ADDRESS="127.0.0.10" ROUTER="1">
+	</host>
+	<host NAME="host2" PORTOUT="201" IP_ADDRESS="127.0.0.20" ROUTER="4">
+	</host>
+	
+	<connect NODE1="1" PORTIN="123" NODE2="2" PORTOUT="124" PATH_ID="11" DROGA="70">
+	</connect>
+	<connect NODE1="2" PORTIN="125" NODE2="3" PORTOUT="126" PATH_ID="12" DROGA="50">
+	</connect>
+	<connect NODE1="2" PORTIN="128" NODE2="5" PORTOUT="302" PATH_ID="13" DROGA="140">
+	</connect>
+	<connect NODE1="3" PORTIN="200" NODE2="4" PORTOUT="303" PATH_ID="14" DROGA="80">
+	</connect>
+	<connect NODE1="4" PORTIN="202" NODE2="5" PORTOUT="304" PATH_ID="15" DROGA="20">
+	</connect>
+	
+	<connect_r NODE1="1" PORTIN="122" NODE2="11" PORTOUT="111" PATH_ID="1" DROGA="70">
+	</connect_r>
+	<connect_r NODE1="1" PORTIN="123" NODE2="2" PORTOUT="124" PATH_ID="11" DROGA="70">
+	</connect_r>
+	<connect_r NODE1="2" PORTIN="125" NODE2="3" PORTOUT="126" PATH_ID="12" DROGA="50">
+	</connect_r>
+	<connect_r NODE1="2" PORTIN="128" NODE2="5" PORTOUT="302" PATH_ID="13" DROGA="140">
+	</connect_r>
+	<connect_r NODE1="3" PORTIN="200" NODE2="4" PORTOUT="303" PATH_ID="14" DROGA="80">
+	</connect_r>
+	<connect_r NODE1="4" PORTIN="202" NODE2="5" PORTOUT="304" PATH_ID="15" DROGA="20">
+	</connect_r>
+	<connect_r NODE1="22" PORTIN="201" NODE2="4" PORTOUT="322" PATH_ID="15" DROGA="20">
+	</connect_r>
+	
+	
+</RC>

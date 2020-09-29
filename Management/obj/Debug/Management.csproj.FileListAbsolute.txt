@@ -1,0 +1,96 @@
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\bin\Debug\Management.exe
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\bin\Debug\Management.pdb
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\App.g.cs
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.exe
+C:\Users\witos\OneDrive\Desktop\EON 11.01 22.34\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.exe
+C:\Users\Aneta\Desktop\EON 11.01 23.29\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.exe
+C:\Users\Piotr\Desktop\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.exe
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.exe
+C:\Users\Aneta\Desktop\eon 23.01 00.11\EON 22.01 15.10\EON 11.01 23.29\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\bin\Debug\Management.exe
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.exe
+C:\Users\Piotr\Desktop\eon 23 18.08\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\bin\Debug\Management.exe
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management.exe
+C:\Users\Aneta\Desktop\EON 23.01 19.43\eon 23 18.08\EON20\Management\obj\Debug\Management.pdb
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\bin\Debug\Management.exe.config
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\bin\Debug\Management.exe
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\bin\Debug\Management.pdb
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management.g.resources
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management.exe
+C:\Users\Aneta\Desktop\ostateczne\EON20\Management\obj\Debug\Management.pdb
